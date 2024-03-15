@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="center">Hi, my name is Veronika, and I'm a student. 👋👩‍🎓</h2>
+<p align="center">
+  I study at the University of Otago. My major is in Computer Science, and my minor is Software Engineering.
+  I strive to become a Software Engineer. My journey has so far been fantastic and I cannot wait for what's ahead.
+  <br><br>
+  Solving complex problems and creating things are the two things I enjoy the most.
+</p> 
+
+- 🌱 I’m currently learning Android App development
 
 <!--
 **veronika-luthar/veronika-luthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
