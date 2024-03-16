@@ -6,7 +6,6 @@
   Solving complex problems and creating things are the two things I enjoy the most.
 </p> 
 
-<br>
 <h2>Currently...</h2>
 
 - 🌱 I’m learning Android App development
@@ -14,7 +13,6 @@
 - 🚴‍♀️ I'm working on a web application called Ride Along with my University groupmates!
 - 🔐 I'm interested in the security implications of applications I write
 
-<br>
 <h2>At University I have...</h2>
 
 - ☕ Used Java to develop desktop applications
