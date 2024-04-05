@@ -10,7 +10,7 @@
 <h2>Currently...</h2>
 
 - 🌱 I’m learning Android App development
-- 🧪 I'm practising writing testable and maintainable code
+- 🧪 I'm practicing writing testable and maintainable code
 - 🚴‍♀️ I'm working on a web application called Ride Along with my University groupmates!
 - 🔐 I'm interested in the security implications of applications I write
 
