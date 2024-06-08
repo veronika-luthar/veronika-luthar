@@ -7,19 +7,11 @@
 </p> 
 
 <br>
-<h2>Currently...</h2>
-
-- 🌱 I’m learning Android App development
-- 🧪 I'm practicing writing testable and maintainable code
-- 🚴‍♀️ I'm working on a web application called Ride Along with my University groupmates!
-- 🔐 I'm interested in the security implications of applications I write
-
-<br>
 <h2>At University I have...</h2>
 
 - ☕ Used Java to develop desktop applications
 - 🐍 Created classical AI in Python to play games
-- 🕸 Developed web applications
+- 🕸 Developed a web app called Ride Along with my groupmates!
 - 🗃 Created and used databases in various DBMS'
 
 <!--
